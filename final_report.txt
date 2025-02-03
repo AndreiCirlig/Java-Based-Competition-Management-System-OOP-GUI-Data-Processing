@@ -1,0 +1,43 @@
+Competitors' Details:
+Competitor Number: 1, Name: John Doe, Age: 25, Gender: Male, Country: USA, Scores: 2 5 4 2 - Overall Score: 3.2
+Competitor Number: 2, Name: Alice Smith, Age: 22, Gender: Female, Country: UK, Scores: 3 4 4 3 - Overall Score: 3.5
+Competitor Number: 3, Name: Bob Brown, Age: 30, Gender: Male, Country: UAE, Scores: 4 4 5 4 - Overall Score: 4.3
+Competitor Number: 4, Name: Clara Johnson, Age: 28, Gender: Female, Country: USA, Scores: 5 4 5 5 - Overall Score: 4.8
+Competitor Number: 5, Name: Dave Wilson, Age: 35, Gender: Male, Country: UAE, Scores: 5 5 5 5 - Overall Score: 5.0
+Competitor Number: 100, Name: Ann  Sthen, Age: 23, Gender: Female, Country: UK, Scores: 5 2 1 5 - Overall Score: 3.2
+Competitor Number: 101, Name: George  Beth, Age: 31, Gender: Male, Country: UK, Scores: 2 4 5 5 - Overall Score: 4.2
+Competitor Number: 102, Name: Kaith  Andy, Age: 29, Gender: Female, Country: UK, Scores: 4 3 2 2 - Overall Score: 2.6
+Competitor Number: 103, Name: Rinon  Grov, Age: 25, Gender: Male, Country: US, Scores: 1 1 5 1 - Overall Score: 2.1
+Competitor Number: 104, Name: Mark  Do, Age: 22, Gender: Male, Country: UK, Scores: 5 5 4 2 - Overall Score: 3.8
+Competitor Number: 105, Name: Harry  Patrick, Age: 32, Gender: Male, Country: UK, Scores: 2 4 5 5 - Overall Score: 4.2
+Competitor Number: 106, Name: Vicy  Mathew, Age: 33, Gender: Male, Country: UK, Scores: 5 2 5 5 - Overall Score: 4.3
+Competitor Number: 107, Name: Monica  Loy, Age: 29, Gender: Female, Country: US, Scores: 4 4 1 2 - Overall Score: 2.6
+Competitor Number: 108, Name: Susan  Mathew, Age: 28, Gender: Female, Country: US, Scores: 5 5 5 3 - Overall Score: 4.4
+Competitor Number: 109, Name: Andy  Stov, Age: 22, Gender: Female, Country: US, Scores: 4 2 4 5 - Overall Score: 3.9
+Competitor Number: 110, Name: Mary  Francis, Age: 27, Gender: Male, Country: UK, Scores: 4 3 2 3 - Overall Score: 2.9
+Competitor Number: 111, Name: Jomon  Vicy, Age: 22, Gender: Male, Country: UK, Scores: 1 3 5 4 - Overall Score: 3.5
+Competitor Number: 112, Name: Catherin  George, Age: 20, Gender: Male, Country: UAE, Scores: 1 4 4 2 - Overall Score: 2.8
+Competitor Number: 113, Name: Aby  Mathew, Age: 34, Gender: Male, Country: UK, Scores: 2 3 5 5 - Overall Score: 4.0
+Competitor Number: 114, Name: Jojo  Mony, Age: 31, Gender: Male, Country: UK, Scores: 2 3 5 5 - Overall Score: 4.0
+Competitor Number: 115, Name: Methen  George, Age: 30, Gender: Male, Country: UK, Scores: 4 5 5 4 - Overall Score: 4.5
+Competitor Number: 116, Name: Scarlett  John, Age: 25, Gender: Female, Country: UK, Scores: 3 4 4 5 - Overall Score: 4.1
+Competitor Number: 117, Name: Patrick  Shanon, Age: 22, Gender: Male, Country: US, Scores: 4 5 5 5 - Overall Score: 4.8
+Competitor Number: 118, Name: Rod  Stod, Age: 26, Gender: Male, Country: UK, Scores: 5 4 2 4 - Overall Score: 3.7
+Competitor Number: 119, Name: Lijo  Willams, Age: 28, Gender: Male, Country: UK, Scores: 3 2 4 2 - Overall Score: 2.7
+
+Highest Scorer Details:
+Competitor Number: 5, Name: Dave Wilson, Age: 35, Gender: Male, Country: UAE, Scores: 5 5 5 5 - Overall Score: 5.0
+
+Summary Statistics:
+Total Number of Competitors: 25
+Average Score: 3.69
+Maximum Score: 5
+Minimum Score: 1
+
+Frequency Report:
+Score 0: 0
+Score 1: 7
+Score 2: 18
+Score 3: 11
+Score 4: 27
+Score 5: 37
